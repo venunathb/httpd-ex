@@ -1,0 +1,110 @@
+
+/* Name: Shri Beyagudem
+		filename: beyagudem-l10-project-style.css
+		Blackboard Username: dbeyagudem
+		Class Section: 0001
+		Purpose: Concert landing page
+*/
+
+body {
+	background-color: #eee; font-family:'Open Sans', Helvetica, Arial;
+}
+	div {
+		width: 800px;
+	}
+  .container {
+	  background-color: white;
+	  width: 1300px;
+	  padding: 15px;
+	  
+	  justify-content: center;
+	  
+	  
+}
+.form {
+	color: black;
+}
+  header {
+	  background-color: lightblue; color: black; text-align: center; width: 1300px; height: 50px;
+}
+  nav ul {
+	  list-style-type: none;
+	  }
+	  nav {
+		  float: left;
+	  }
+  a {
+	  text-decoration: underline; color: purple; font-size: 150%
+	  }
+  img {
+	  border: 10px solid black;
+	  width: 200px; height: 200px;
+	  }
+  main {
+	  top: 240px;
+	  border: 1px solid #466995;
+	margin: 10px;
+ 
+  }
+  h2 {
+	  color: green;
+	display: flex;
+	justify-content: right;
+	
+	  }
+  h3 {
+	  color: blue;
+	  }
+  caption {
+	  font-family:'Open Sans', Helvetica, Arial; font-weight: bold; font-size: 150%; color: purple; border: 1px solid black;
+	  }
+	  .date {
+		  float: left;
+  width: 50%;
+  padding: 5px;
+		  
+	  }
+	  
+	  table {
+		  border: 1px solid black;
+    /* margin-top: 50px; */
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+	  }
+  table, th, td {
+	  border: 2px solid black;
+	  }
+  thead {
+	  background-color: lightblue; color: white;
+	  }
+  tbody {
+	  color: black;
+	  }
+  tfoot {
+	  border: 1px solid black; text-align: left; font-weight: bold; font-size: 75%; color: black; background-color: white;
+	  }
+  legend {
+	  background-color: blue; color: white; font-family: 'Open Sans', Helvetica, Arial;
+	  }
+	ul {
+		list-style-type: none; padding: 0px;
+		}
+	li + li {
+		padding-top: 10px
+		}
+	label {
+		font-family: 'Open Sans', Helvetica, Arial
+		}
+	footer {
+		background-color: lightblue;
+		color: white;
+	  width: 1300px;
+	  padding-top: 20px;
+	  text-align: center;
+	  clear: left;
+	  
+	}
+		fieldset {
+			display: block;
+		}
